@@ -2,8 +2,8 @@
   "copyright": "",
   "theme": "light",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
+  "author": "Steven Sayo & Jay Oram",
+  "name": "Let's Talk Email",
   "banner": "/banner.webp",
   "pageSize": 15,
   "fundingUrl": "",
@@ -12,9 +12,9 @@
   "explicit": false,
   "cover": "/cover.jpg",
   "language": "en",
-  "link": "https://your-website-url.netlify.app",
+  "link": "https://letstalk.email",
   "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "description": "Join hosts Jay Oram and Steven Sayo as they explore everything from the intricacies of email design and coding to the latest platforms, accessibility best practices, and upcoming industry events. Whether you're a seasoned email developer, a marketer looking to boost your campaigns, or simply curious about the technology behind your inbox, Let's Talk Email is your essential guide to navigating the ever-evolving landscape of digital communication. Tune in for expert insights, lively discussions, and a healthy dose of email geekery.",
   "category": [
     "Technology",
     "Business"
