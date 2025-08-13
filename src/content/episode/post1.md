@@ -1,6 +1,6 @@
 ---
 title: Where it begins
-audioUrl: https://drive.google.com/uc?export=download&id=1r79ItIPOhXYBxHbHMcKfQHqX7ygMH1kW
+audioUrl: 
 pubDate: Aug 13 2025
 duration: 00:24
 size: 0.7
