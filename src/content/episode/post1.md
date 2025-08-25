@@ -1,5 +1,5 @@
 ---
-title: Where it begins
+title: 01-The Beginning of a B-E-A-U-TIFUL Podcast
 audioUrl: https://www.buzzsprout.com/2525140/episodes/17732472-01-the-beginning-of-a-b-e-a-u-tiful-podcast.mp3
 pubDate: Aug 25 2025
 duration: 01:17
